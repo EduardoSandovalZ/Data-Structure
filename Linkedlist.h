@@ -1,3 +1,6 @@
+/*
+    Version de listas ligadas en C++. Para cualquier trabajo que requiera la implementacion de listas ligadas.
+*/
 #include <iostream>
 using namespace std;
 // Programamos la clase nodo
